@@ -52,7 +52,4 @@ The API will be available at `http://localhost:8000/`
 - There is no homepage; access the API endpoints directly.
 - You can use tools like Postman or curl to interact with the API.
 
-## License
-MIT
-
 You can find more details of how we created this REST API from this [tutorial](https://www.techiediaries.com/django-tutorial).
